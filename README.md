@@ -12,35 +12,25 @@
 
 ## 一、环境搭建
 
-#### [Hive安装](https://github.com/bigdata2018/BigData/blob/master/notes/installation/Hadoop%20%E5%AE%89%E8%A3%85.md)
+#### [Hive安装](https://github.com/bigdata2018/BigData/blob/master/notes/installation/Hive%E5%AE%89%E8%A3%85.md)
 
 
 
 ## 二、Hive入门到进阶
 
-#### [1.Hive 简介及核心概念](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive简介及核心概念.md)
+#### [1.Hive 基本概念](https://github.com/bigdata2018/BigData/blob/master/notes/Hive%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
-#### [2.Linux 环境下 Hive 的安装部署](https://github.com/heibaiying/BigData-Notes/blob/master/notes/installation/Linux环境下Hive的安装部署.md)
+#### [2.Hive数据类型](https://github.com/bigdata2018/BigData-Hive/blob/master/notes/Hive%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
-#### [3.Hive CLI 和 Beeline 命令行的基本使用](https://github.com/heibaiying/BigData-Notes/blob/master/notes/HiveCLI和Beeline命令行的基本使用.md)
-
-#### [4.Hive 常用 DDL 操作](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive常用DDL操作.md)
-
-#### [5.Hive 分区表和分桶表](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive分区表和分桶表.md)
-
-#### [6.Hive 视图和索引](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive视图和索引.md)
-
-#### [7.Hive常用 DML 操作](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive常用DML操作.md)
-
-#### [8.Hive 数据查询详解]()
+#### [3.Hive常用DDL](https://github.com/bigdata2018/BigData-Hive/blob/master/notes/Hive%20%E5%B8%B8%E7%94%A8%20DDL%20.md)
 
 
 
 ## 三、Hive高级
 
-#### [1.Hive源码解读](https://github.com/bigdata2018/BigData-Hadoop/blob/master/notes/Hadoop%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.md)
+#### [1.Hive源码解读](#)
 
-#### [2.Hive性能调优](https://github.com/bigdata2018/BigData-Hadoop/blob/master/notes/Hadoop%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
+#### [2.Hive性能调优](#)
 
-#### [3.常见BUG总结]()
+#### [3.常见BUG总结](#)
 
